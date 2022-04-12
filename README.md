@@ -28,3 +28,12 @@ RPL IDN Learning Source Project 6
 - Sort Data by Priority (EnumClass)
 - MVVM Architecture
 - ViewModel 
+
+| <img src="/images/SplashScreen.png"/> | <img src="/images/HomeScreen.png"/> | <img src="/images/AddFragment.png"/> |
+| :--: | :--: | :--: |
+
+| <img src="/images/AddScreen.png"/> | <img src="/images/DetailScreen.png"/> | <img src="/images/UpdateNote.png"/> |
+| :--: | :--: | :--: |
+
+| <img src="/images/Priority.png"/> | <img src="/images/Search.png"/> | <img src="/images/Delete.png"/> |
+| :--: | :--: | :--: |
