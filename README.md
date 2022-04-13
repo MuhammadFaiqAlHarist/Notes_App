@@ -21,10 +21,9 @@ RPL IDN Learning Source Project 6
 - SafeArgs
 - 
 - Create Read Update Delete ROOM Database
-- Create Read Update Delete ROOM Database
 - DB Browser For SQLite
-- 
 - Restored Deleted Data
+- 
 - Sort Data by Priority (EnumClass)
 - MVVM Architecture
 - ViewModel 
